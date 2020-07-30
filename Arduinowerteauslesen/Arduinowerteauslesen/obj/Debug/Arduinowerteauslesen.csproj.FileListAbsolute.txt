@@ -1,0 +1,6 @@
+c:\users\sukram\documents\visual studio 2015\Projects\Arduinowerteauslesen\Arduinowerteauslesen\bin\Debug\Arduinowerteauslesen.exe.config
+c:\users\sukram\documents\visual studio 2015\Projects\Arduinowerteauslesen\Arduinowerteauslesen\bin\Debug\Arduinowerteauslesen.exe
+c:\users\sukram\documents\visual studio 2015\Projects\Arduinowerteauslesen\Arduinowerteauslesen\bin\Debug\Arduinowerteauslesen.pdb
+c:\users\sukram\documents\visual studio 2015\Projects\Arduinowerteauslesen\Arduinowerteauslesen\obj\Debug\Arduinowerteauslesen.exe
+c:\users\sukram\documents\visual studio 2015\Projects\Arduinowerteauslesen\Arduinowerteauslesen\obj\Debug\Arduinowerteauslesen.pdb
+C:\Users\Sukram\Documents\Visual Studio 2015\Projects\Arduinowerteauslesen\Arduinowerteauslesen\obj\Debug\Arduinowerteauslesen.csprojResolveAssemblyReference.cache
